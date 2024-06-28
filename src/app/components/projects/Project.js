@@ -45,10 +45,10 @@ export default function Project() {
             <div  className= {`${anonymousPro.className} row-span-3 rounded-lg project_card`}>
               <img className="rounded-t-lg" src={item.image_url} alt="" />
               <div className="p-5 project_card_content">
-                  <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                  <h5 className="mb-2 text-2xl font-bold tracking-tight ">
                     {item.title}
                   </h5>
-                <p className="mb-3 text-gray-700 dark:text-gray-400">
+                <p className="mb-3 ">
                   {" "}
                   {item.description}
                 </p>
