@@ -1,0 +1,45 @@
+.mainBanner {
+  height: 450px;
+  width: 100%;
+}
+
+.content h2 {
+  font-size: 3rem;
+}
+
+.content h1 {
+  font-size: 5rem;
+}
+.content h3 {
+  font-size: 2rem;
+}
+
+.content .green_text {
+  color: #18d26f;
+}
+
+@media screen and (max-width: 700px) {
+  .mainBanner {
+    height: 400px;
+  }
+  .mainBanner p{
+    padding: 10px !important;
+  }
+  .picture {
+    display: none;
+  }
+  .content {
+    text-align: center;
+  }
+  .content h2 {
+    font-size: 34px;
+  }
+
+  .content h1 {
+    font-size: 3rem;
+  }
+
+  .content h3 {
+    font-size: 30px;
+  }
+}
