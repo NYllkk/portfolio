@@ -168,21 +168,18 @@ export const CONTACT_DETAILS = [
 ];
 
 export const SOCIAL_ICONS = [
-  {
-    icon: "logos:facebook",
-    slug: "https://www.facebook.com/kush.kapoor.31508/",
-  },
+
   {
     icon: "skill-icons:instagram",
-    slug: "https://www.instagram.com/ankush_kapoor_07/",
+    slug: "https://www.instagram.com/nikhil_466112_/",
   },
 
   {
     icon: "skill-icons:github-dark",
-    slug: "https://github.com/AnkushBihan",
+    slug: "https://github.com/NYllkk",
   },
   {
     icon: "skill-icons:linkedin",
-    slug: "https://www.linkedin.com/in/ankush-kapoor-1335821b0/",
+    slug: "https://www.linkedin.com/in/nikhil-sharma-688440261/",
   },
 ];
