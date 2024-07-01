@@ -23,10 +23,10 @@ export default function Contact() {
 
     emailjs
       .send(
-        "service_7qprmsk", // Replace with your EmailJS service ID
-        "template_c5taclr", // Replace with your EmailJS template ID
+        "service_50cqphl", // Replace with your EmailJS service ID
+        "template_aifqihm", // Replace with your EmailJS template ID  "template_aifqihm"
         payload,
-        "Tx34nJDhmGbGtAd4A" // Replace with your EmailJS user ID
+        "AIXZA-8orrxA0RDCe" // Replace with your EmailJS user ID
       )
       .then((response) => {
         reset();

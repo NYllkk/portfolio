@@ -22,9 +22,9 @@ export const navItems = [
 ];
 
 export const MAIN_TEXT = {
-  LOGO_NAME: "< Ankush Kapoor />",
+  LOGO_NAME: "< Nikhil Sharma />",
   LOGO_MENU_NAME: "< A K />",
-  NAME: "Ankush Kapoor ",
+  NAME: "Nikhil Sharma ",
   PROFILE: "web developer",
   ABOUT_LINE:
     "I specialize in creating sleek, user-friendly websites. Let's build something amazing together!",
@@ -155,15 +155,15 @@ export const SKILL_ICON_TECHNOLOGY = [
 export const CONTACT_DETAILS = [
   {
     icon: "carbon:location-filled",
-    text: "Palampur, Kangra, Himachal Pradesh",
+    text: "Hoshairpur,  Punjab ",
   },
   {
     icon: "ic:baseline-email",
-    text: "kapoorankush16@gmail.com",
+    text: "nikhilsharma52197@gmail.com",
   },
   {
     icon: "fluent:phone-12-filled",
-    text: "+91 8219510239",
+    text: "+91 8437206653",
   },
 ];
 

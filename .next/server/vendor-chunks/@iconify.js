@@ -49,7 +49,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
 
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js`)
+const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -58,39 +58,39 @@ const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy
 const { __esModule, $$typeof } = proxy;
 const __default__ = proxy.default;
 
-const e0 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#Icon`);
+const e0 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#Icon`);
 
-const e1 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#InlineIcon`);
+const e1 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#InlineIcon`);
 
-const e2 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#_api`);
+const e2 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#_api`);
 
-const e3 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#addAPIProvider`);
+const e3 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#addAPIProvider`);
 
-const e4 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#addCollection`);
+const e4 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#addCollection`);
 
-const e5 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#addIcon`);
+const e5 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#addIcon`);
 
-const e6 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#buildIcon`);
+const e6 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#buildIcon`);
 
-const e7 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#calculateSize`);
+const e7 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#calculateSize`);
 
-const e8 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#disableCache`);
+const e8 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#disableCache`);
 
-const e9 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#enableCache`);
+const e9 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#enableCache`);
 
-const e10 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#getIcon`);
+const e10 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#getIcon`);
 
-const e11 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#iconExists`);
+const e11 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#iconExists`);
 
-const e12 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#iconLoaded`);
+const e12 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#iconLoaded`);
 
-const e13 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#listIcons`);
+const e13 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#listIcons`);
 
-const e14 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#loadIcon`);
+const e14 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#loadIcon`);
 
-const e15 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#loadIcons`);
+const e15 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#loadIcons`);
 
-const e16 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Ankush Kapoor/others/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#replaceIDs`);
+const e16 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/richestsoft/Downloads/latestPortfolio/node_modules/@iconify/react/dist/iconify.js#replaceIDs`);
 
 
 /***/ })
