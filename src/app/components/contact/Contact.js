@@ -9,6 +9,7 @@ import { Icon } from "@iconify/react/dist/iconify.js";
 import { CONTACT_DETAILS } from "@/app/constants/AllConstants";
 import emailjs from "emailjs-com";
 import CommonHeading from "../heading/CommonHeading";
+import DownloadResumeButton from "../downloadbutton/DownloadResumeButton";
 
 export default function Contact() {
   const [loading, setLoading] = useState(false);
@@ -107,6 +108,13 @@ export default function Contact() {
                 <p className="pl-5 text-left">{item.text}</p>
               </div>
             ))}
+            <div className="contact_section">
+              <div className="flex items-center pb-3">
+                <Icon icon="typcn:download" style={{ color: "rgb(24, 210, 111" }} />
+                <p className="pl-5 text-left"><DownloadResumeButton /></p>
+              </div>
+
+            </div>
           </div>
         </div>
       </div>

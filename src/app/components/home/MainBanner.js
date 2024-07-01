@@ -4,6 +4,7 @@ import "./MainBanner.css";
 import { anonymousPro, orbitron } from "@/app/utils/fonts";
 import { MAIN_TEXT } from "@/app/constants/AllConstants";
 import { motion } from "framer-motion";
+import DownloadResumeButton from "../downloadbutton/DownloadResumeButton";
 
 export default function MainBanner() {
   const text = MAIN_TEXT.ABOUT_LINE.split(" ");
@@ -31,8 +32,10 @@ export default function MainBanner() {
             >
               {el}{" "}
             </motion.span>
+
           ))}
         </p>
+        <DownloadResumeButton />
       </div>
       <div className="picture">
         <svg

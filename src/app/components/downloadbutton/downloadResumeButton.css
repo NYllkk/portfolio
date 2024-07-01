@@ -1,0 +1,55 @@
+/* downloadResumeButton.module.css */
+.button-container {
+    display: flex;
+    justify-content: flex-start;
+}
+.button-container button {
+    background-color: #4CAF50;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    font-family: 'Anonymous Pro', monospace;
+    /* Apply custom font */
+}
+
+.button-container button:hover {
+    background-color: #45a049;
+    /* Darker Green */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .button-container button {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #45a049;
+    /* Darker green background on hover */
+}

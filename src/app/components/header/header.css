@@ -76,4 +76,11 @@
   .sticky_header {
     top: 0;
   }
+    
+}
+
+@media screen  and (min-width : 700px){
+  .toggle-menu {
+    display:  none;
+  }
 }

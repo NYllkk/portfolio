@@ -13,7 +13,6 @@ export default function Project() {
   return (
     <div id="projects" className="maxWidth py-20 text-center project_section">
       <CommonHeading text="Projects" />
-
       <Swiper
         className="mySwiper"
         breakpoints={{
@@ -41,18 +40,18 @@ export default function Project() {
         modules={[Autoplay, Pagination]}
       >
         {PROJECTS_LIST.map((item, i) => (
-          <SwiperSlide key={i} style={{padding: '20px'}}>
-            <div  className= {`${anonymousPro.className} row-span-3 rounded-lg project_card`}>
+          <SwiperSlide key={i} style={{ padding: '20px' }}>
+            <div className={`${anonymousPro.className} row-span-3 rounded-lg project_card`}>
               <img className="rounded-t-lg" src={item.image_url} alt="" />
               <div className="p-5 project_card_content">
-                  <h5 className="mb-2 text-2xl font-bold tracking-tight ">
-                    {item.title}
-                  </h5>
+                <h5 className="mb-2 text-2xl font-bold tracking-tight ">
+                  {item.title}
+                </h5>
                 <p className="mb-3 ">
                   {" "}
                   {item.description}
                 </p>
-                
+
               </div>
             </div>
           </SwiperSlide>

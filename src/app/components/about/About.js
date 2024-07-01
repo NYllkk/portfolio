@@ -26,6 +26,7 @@ export default function About() {
             {el}{" "}
           </motion.span>
         ))}
+
       </p>
     </div>
   );

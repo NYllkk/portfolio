@@ -22,6 +22,7 @@
     padding: 25px !important;
   }
 } */
+ 
 
 
 .svg_section {
@@ -33,7 +34,10 @@
   transition: box-shadow 0.5s;
 }
 
-.svg_section:hover {
+.group:hover {
+  height: 80px;
+    width: 80px;
+    border-radius: 50%;
   box-shadow: 0 0 25px #18d26f;
 }
 

@@ -11,7 +11,41 @@ body {
   max-width: 1200px;
   margin: auto;
 }
-
+.save_btn {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+  transition: background-color 0.3s ease;
+}
+.icon {
+  margin-left: 8px;
+  color: #24282c;
+  font-size: 24px;
+}
+.save_btn:hover .icon{
+  color: #18d26f;
+}
+.save_btn:hover {
+  background: transparent;
+  color: #f2f5ed;
+}
+.buttonContainer{
+  font-size: 20px;
+    background:#18d26f;
+    padding: 5px 13px;
+    border: none;
+    color: #24282c;
+    border-radius: 8px;
+}
 .circle {
   position: fixed;
   z-index: 100;
@@ -30,7 +64,6 @@ body {
   text-align: center;
   font-size: 16px;
 }
-
 .contact {
   font-weight: 500;
   font-size: 36px;

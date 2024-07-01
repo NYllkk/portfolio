@@ -6,7 +6,7 @@ import React, { useState } from "react";
 import "./header.css";
 import { anonymousPro, orbitron } from "@/app/utils/fonts";
 import { Link as ScrollLink } from "react-scroll";
-
+import DownloadResumeButton from '@/app/components/downloadbutton/DownloadResumeButton'
 export default function Header() {
   const [showMenu, setShowMenu] = useState(false);
 
@@ -36,6 +36,7 @@ export default function Header() {
                   </ScrollLink>
                 </li>
               ))}
+
               <li className="toggle-btn">
                 <button
                   onClick={() => {
@@ -67,13 +68,17 @@ export default function Header() {
                     smooth={true}
                     duration={500}
                     className={anonymousPro.className}
-                    onClick={()=>{setShowMenu(false)}}
-                    >
+                    onClick={() => { setShowMenu(false) }}
+                  >
                     {item.name}
                   </ScrollLink>
                 </li>
               ))}
+              <li>
+                {/* <DownloadResumeButton /> */}
+              </li>
             </ul>
+            <></>
           </div>
         )}
       </div>

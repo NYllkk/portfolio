@@ -14,9 +14,7 @@ import "aos/dist/aos.css";
 export default function RootLayout({
   children,
 }) {
-  console.log("hjdohohdowd", children);
   const [cursorVariant, setCursorVariant] = useState("default");
-  console.log("dsfads");
   const ref = useRef(null);
   const mouse = useMouse(ref, {
     enterDelay: 100,

@@ -19,11 +19,12 @@ export const navItems = [
     name: "Contact me ",
     slug: "contact",
   },
+
 ];
 
 export const MAIN_TEXT = {
   LOGO_NAME: "< Nikhil Sharma />",
-  LOGO_MENU_NAME: "< A K />",
+  LOGO_MENU_NAME: "< N S />",
   NAME: "Nikhil Sharma ",
   PROFILE: "web developer",
   ABOUT_LINE:

@@ -15,9 +15,11 @@ textarea {
 
 .skill_section form input:focus {
   box-shadow: 0 0 10px #18d26f;
+  outline: none;
 }
 .skill_section form textarea:focus {
   box-shadow: 0 0 10px #18d26f;
+  outline: none;
 }
 
 .save_btn {
