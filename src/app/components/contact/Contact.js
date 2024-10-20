@@ -111,7 +111,9 @@ export default function Contact() {
             <div className="contact_section">
               <div className="flex items-center pb-3">
                 <Icon icon="typcn:download" style={{ color: "rgb(24, 210, 111" }} />
-                <p className="pl-5 text-left"><DownloadResumeButton /></p>
+                <div className="pl-5 text-left">
+                  <DownloadResumeButton />
+                  </div>
               </div>
 
             </div>

@@ -35,7 +35,7 @@ export default function MainBanner() {
 
           ))}
         </p>
-        <DownloadResumeButton />
+        {/* <DownloadResumeButton /> */}
       </div>
       <div className="picture">
         <svg
